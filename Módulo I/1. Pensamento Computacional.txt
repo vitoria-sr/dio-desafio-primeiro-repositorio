@@ -1,0 +1,22 @@
+# Pensamento Computacional :computer:
+
+Pensamento Computacional: envolve um problema e um passo a passo da solução do problema, de forma que seja executável por um computador.
+
+
+
+### Pilares
+
+1. Decomposição: segmenta o problema;
+2. Reconhecimento de Padrões: encontra similaridades e diferenças dentro do problema;
+3. Abstração: extrapola o conceito do problema para algo generalista;
+4. Design de Algoritmos: definir o passo a passo do problema.
+
+
+
+##### Também é necessário:
+
+* Raciocínio Lógico: pensamento estruturado para chegar na solução do problema.
+* Aperfeiçoamento: melhoramento para uma solução mais eficiente, otimizar processos, simplificar linhas de códigos e ter funções bem definidas.
+
+
+

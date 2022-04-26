@@ -1,0 +1,28 @@
+## Funcionamento do Git
+
+* SHA1:
+* Blobs:
+* Tree:
+* Commit
+* Chave SSH:
+
+
+
+### Comandos
+
+* ls:
+* cd:
+* crtl+l:
+* Tab:
+* mkdir:
+* echo:
+* seta p/ cima:
+* git Init:
+* git status:
+* git add:
+* git commit:
+* git remote add origin:
+* git remote -v:
+* git push origin master:
+* git pull origin master:
+* git clone:
